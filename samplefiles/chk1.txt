@@ -1,3 +1,7 @@
 hi this is a sample text
 adding second line to commit agian
+<<<<<<< HEAD
 third line
+=======
+im adding on emore line
+>>>>>>> 052ffd3137203c6217aef033c28963e6b0dc870d
